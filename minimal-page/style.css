@@ -1,0 +1,33 @@
+*{
+    width: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "GT America Standard", sans-serif;
+    font-size: 16px;
+}
+
+.header{
+    width: 100vw;
+    height: 90px;
+    background-color: #000;
+    color: #fff;
+    font-size: 24px;
+}
+
+.header .nav{
+    border: 1px solid red;
+    width: 100%;
+    height: 100%;
+}
+
+.header .nav .nav-left{
+    display: flex;
+
+    width: 30%;
+}
+
+
+
